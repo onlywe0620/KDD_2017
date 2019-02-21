@@ -5,7 +5,7 @@ Task1 final : fourth place
 ## There is our Code Instruction:
 
 ### Environment
-* Anaconda2-4.3.1 (x86_64)
+* Anaconda2-4.3.1
 
 * pandas
 * matplotlib
